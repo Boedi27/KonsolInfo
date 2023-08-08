@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">KonsolInfo</string>
+    <string name="Things_name">Nama Thing</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>PlayStation 1</item>
+        <item>PlayStation 2</item>
+        <item>Xbox 360</item>
+        <item>Xbox One</item>
+        <item>Wii</item>
+        <item>Nintendo DS</item>
+        <item>Sega Genesis</item>
+        <item>Sega Game Gear</item>
+        <item>Atari 2600</item>
+        <item>Atari 7800</item>
+
+    </string-array>
+
+    <string-array name="data_company">
+        <item>Sony</item>
+        <item>Sony</item>
+        <item>Microsoft</item>
+        <item>Microsoft</item>
+        <item>Nintendo</item>
+        <item>Nintendo</item>
+        <item>Sega</item>
+        <item>Sega</item>
+        <item>Atari</item>
+        <item>Atari</item>
+
+    </string-array>
+
+    <string-array name="data_console_type">
+        <item>Home</item>
+        <item>Home</item>
+        <item>Home</item>
+        <item>Home</item>
+        <item>Home</item>
+        <item>Handheld</item>
+        <item>Home</item>
+        <item>Handheld</item>
+        <item>Home</item>
+        <item>Home</item>
+
+    </string-array>
+
+    <string-array name="data_description">
+        <item>PlayStation(disingkat PS, umumnya dikenal sebagai PS1/PS one atau nama kodenya PSX) adalah konsol video game rumahan yang dikembangkan dan dipasarkan oleh Sony Computer Entertainment. Konsol ini dirilis di Jepang pada 3 Desember 1994, di Amerika Utara pada 9 September 1995, di Eropa pada 29 September 1995, dan di Australia pada 15 November 1995. Sebagai konsol generasi kelima, PlayStation sering bersaing dengan Nintendo 64 dan Sega Saturnus.</item>
+        <item>PlayStation 2 (PS2) adalah konsol video game rumahan yang dikembangkan dan dipasarkan oleh Sony Computer Entertainment. Konsol ini pertama kali dirilis di Jepang pada 4 Maret 2000, di Amerika Utara pada 26 Oktober 2000, di Eropa pada 24 November 2000, dan di Australia pada 30 November 2000. Merupakan penerus dari PlayStation 1, serta angsuran kedua di merek konsol PlayStation. Sebagai konsol generasi keenam, ia bersaing dengan GameCube milik Nintendo, Dreamcast milik Sega, dan Xbox milik Microsoft. Merupakan konsol video game terlaris sepanjang masa, telah terjual lebih dari 155 juta unit di seluruh dunia.</item>
+        <item>Xbox 360 adalah konsol video game rumahan yang dikembangkan oleh Microsoft. Sebagai penerus Xbox asli, ini adalah konsol kedua dalam seri Xbox. Konsol ini bersaing dengan Sony PlayStation 3 dan Nintendo Wii sebagai bagian dari konsol video game generasi ketujuh. Konsol ini secara resmi diluncurkan di MTV pada 12 Mei 2005, dengan peluncuran terperinci dan informasi game diumumkan pada akhir bulan di 2005 Electronic Entertainment Expo (E3).</item>
+        <item>Xbox One adalah konsol video game rumahan yang dikembangkan oleh Microsoft. Diumumkan pada Mei 2013, ini adalah penerus Xbox 360 dan konsol ketiga dalam seri Xbox. Ini pertama kali dirilis di Amerika Utara, sebagian Eropa, Australia, dan Amerika Selatan pada November 2013 dan di Jepang, Tiongkok, dan negara-negara Eropa lainnya pada September 2014. Ini adalah konsol game Xbox pertama yang dirilis di Tiongkok, khususnya di Zona Perdagangan Bebas Shanghai. Microsoft memasarkan perangkat tersebut sebagai "sistem hiburan all-in-one", maka nama "Xbox One". Konsol generasi kedelapan, terutama bersaing dengan Sony PlayStation 4 dan Nintendo Wii U dan kemudian Switch.</item>
+        <item>Wii adalah konsol permainan video rumahan yang dikembangkan dan dipasarkan oleh Nintendo. Itu dirilis pada 19 November 2006, di Amerika Utara dan pada Desember 2006 untuk sebagian besar wilayah lain di dunia. Ini adalah konsol game rumahan utama kelima Nintendo, setelah GameCube dan merupakan konsol generasi ketujuh bersama Microsoft Xbox 360 dan Sony PlayStation 3.</item>
+        <item>Nintendo DS adalah konsol permainan genggam yang diproduksi oleh Nintendo, dirilis secara global pada tahun 2004 dan 2005. DS, sebuah inisial untuk "Sistem Pengembang" atau "Layar Ganda", memperkenalkan fitur-fitur baru yang berbeda untuk permainan genggam: dua layar LCD bekerja bersama-sama (yang paling bawah adalah layar sentuh), mikrofon internal dan dukungan untuk konektivitas nirkabel. Kedua layar tercakup dalam desain clamshell yang mirip dengan Game Boy Advance SP. Nintendo DS juga menampilkan kemampuan beberapa konsol DS untuk berinteraksi langsung satu sama lain melalui Wi-Fi dalam jarak pendek tanpa perlu terhubung ke jaringan nirkabel yang ada. Alternatifnya, mereka dapat berinteraksi secara online menggunakan layanan Koneksi Wi-Fi Nintendo yang sekarang sudah tidak ada. Pesaing utamanya adalah Sony\'s PlayStation Portable selama generasi ketujuh konsol video game.</item>
+        <item>Sega Genesis, dikenal sebagai Mega Drive di luar Amerika Utara, adalah konsol video game rumahan generasi keempat 16-bit yang dikembangkan dan dijual oleh Sega. Itu adalah konsol ketiga Sega dan penerus Master System. Sega merilisnya pada tahun 1988 di Jepang sebagai Mega Drive, dan pada tahun 1989 di Amerika Utara sebagai Genesis. Pada tahun 1990, didistribusikan sebagai Mega Drive oleh Virgin Mastertronic di Eropa, Ozisoft di Australasia, dan Tec Toy di Brazil. Di Korea Selatan, itu didistribusikan oleh Samsung Electronics sebagai Super GameBoy dan kemudian Super Aladdin Boy.</item>
+        <item>Game Gear[a] adalah konsol permainan genggam generasi keempat 8-bit yang dirilis oleh Sega pada tanggal 6 Oktober 1990 di Jepang, pada bulan April 1991 di seluruh Amerika Utara dan Eropa, dan selama tahun 1992 di Australia. Game Gear terutama bersaing dengan Game Boy dari Nintendo, Atari Lynx, dan TurboExpress dari NEC. Ini berbagi banyak perangkat kerasnya dengan Sistem Master, dan dapat memainkan game Sistem Master dengan menggunakan adaptor. Sega memposisikan Game Gear, yang memiliki layar lampu latar penuh warna dengan format lanskap, sebagai perangkat genggam yang lebih unggul secara teknologi dari Game Boy.</item>
+        <item>Atari 2600 adalah konsol video game rumahan yang dikembangkan dan diproduksi oleh Atari, Inc. Dirilis pada September 1977, konsol ini mempopulerkan perangkat keras dan game berbasis mikroprosesor yang disimpan pada kartrid ROM yang dapat ditukar, format yang pertama kali digunakan dengan Fairchild Channel F pada tahun 1976. Diberi merek sebagai Sistem Komputer Video Atari (Atari VCS) sejak dirilis hingga November 1982, VCS dibundel dengan dua pengontrol joystick, sepasang pengontrol dayung, dan kartrid permainan—awalnya Tempur dan kemudian Pac-Man.</item>
+        <item>Atari 7800 ProSystem, atau hanya Atari 7800, adalah konsol video game rumahan yang secara resmi dirilis oleh Atari Corporation pada tahun 1986 sebagai penerus Atari 2600 dan Atari 5200. Itu dapat menjalankan hampir semua kartrid Atari 2600, menjadikannya salah satu konsol pertama dengan kompatibilitas mundur. Itu dikirim dengan model joystick yang berbeda dari CX40 standar 2600 dan Pole Position II sebagai game paket. Sebagian besar judul yang diumumkan saat peluncuran adalah port dari video game arcade 1981–83.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/playstation_1</item>
+        <item>@drawable/playstation_2</item>
+        <item>@drawable/xbox_360</item>
+        <item>@drawable/xbox_one</item>
+        <item>@drawable/wii</item>
+        <item>@drawable/nintendo_ds</item>
+        <item>@drawable/sega_genesis</item>
+        <item>@drawable/sega_gear</item>
+        <item>@drawable/atari_2600</item>
+        <item>@drawable/atari_7800</item>
+    </integer-array>
+</resources>
