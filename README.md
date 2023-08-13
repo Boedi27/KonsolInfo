@@ -1,4 +1,5 @@
-# KonsolInfo
+<h1 align="center">KonsolInfo</h3>
+
 ## About The Project
 Konsolinfo is an application that I created  to complete my submission for the 'Learning How to make an Android Application for Beginners' course on the Dicoding Platform. This app provides information to users about various gaming consoles around the world.
 
