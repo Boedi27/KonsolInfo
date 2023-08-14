@@ -1,7 +1,7 @@
 <h1 align="center">KonsolInfo</h3>
 
 ## About The Project
-Konsolinfo is an application that I created  to complete my submission for the 'Learning How to make an Android Application for Beginners' course on the Dicoding Platform. This app provides information to users about various gaming consoles around the world.
+Konsolinfo is an application that I created  to complete my submission for the  **'Learning How to make an Android Application for Beginners' (Belajar Membuat Aplikasi Android untuk Pemula)** course on the Dicoding Platform. This app provides information to users about various gaming consoles around the world.
 
 ### Built With
 *  <a href="https://kotlinlang.org">Kotlin</a> - A high level programming language developed by JetBrains and approved by Google for developing Android app
