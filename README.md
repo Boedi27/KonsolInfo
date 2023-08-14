@@ -12,3 +12,6 @@ Konsolinfo is an application that I created  to complete my submission for the '
 * Home, Detail, About Activity
 * Recyclerview
 * Intent
+
+## Contact
+[Muhamad Arif Boediman](https://www.linkedin.com/in/muhamad-arif-boediman-885672242/) - marifboediman772@gmail.com
