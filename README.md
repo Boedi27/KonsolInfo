@@ -13,5 +13,8 @@ Konsolinfo is an application that I created  to complete my submission for the '
 * Recyclerview
 * Intent
 
+### Demo
+[![Demo Video](https://i9.ytimg.com/vi/3c-sleALTyQ/mqdefault.jpg?sqp=CLj05aYG-oaymwEoCMACELQB8quKqQMcGADwAQH4Ab4HgAKAD4oCDAgAEAEYfyAtKBMwDw==&rs=AOn4CLCKxMo7Wmukkl-RTKKHjxol8oKnWw)](https://youtube.com/shorts/3c-sleALTyQ)
+
 ## Contact
 [Muhamad Arif Boediman](https://www.linkedin.com/in/muhamad-arif-boediman-885672242/) - marifboediman772@gmail.com
