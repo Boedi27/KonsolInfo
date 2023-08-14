@@ -14,19 +14,19 @@ Konsolinfo is an application that I created  to complete my submission for the  
 * Intent
 
 <p align="center">
-  <img src = "https://github.com/Boedi27/MySubmissionKotlin/assets/116364140/fc4ab8ca-478b-4545-8f0c-7d1389fce262"
+  <img src = "http://drive.google.com/uc?export=view&id=15gsi1rKPhaE3MJiKJSsR-J2us8WdTGgP"
     alt = "Splash Screen"
     style ="margin-rigth : 10px;"
     width = 150 />
-  <img src = "https://github.com/Boedi27/MySubmissionKotlin/assets/116364140/0db87f0b-68e3-4bb7-8263-2f4458b4a595"
+  <img src = "http://drive.google.com/uc?export=view&id=1hAqlwZBVXBeSfH4bTQC9jVUnelmIne_k"
     alt = "Home"
     style ="margin-rigth : 10px;"
     width = 150 />
-  <img src = "https://github.com/Boedi27/MySubmissionKotlin/assets/116364140/c8424369-31cf-4520-b033-ab8a589ec035"
+  <img src = "http://drive.google.com/uc?export=view&id=1Er3kFj6pKN8y9fbiV3dCdb3TssG1XHjI"
     alt = "Detail"
     style ="margin-rigth : 10px;"
     width = 150 />
-  <img src = "https://github.com/Boedi27/MySubmissionKotlin/assets/116364140/d5bea4ed-13e7-4772-ba56-416087a22c2a"
+  <img src = "http://drive.google.com/uc?export=view&id=1p0mfnC1TVRAE5_eEP9p2znbRAzJzcdGA"
     alt = "About"
     style ="margin-rigth : 10px;"
     width = 150 />
